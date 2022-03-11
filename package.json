@@ -36,7 +36,7 @@
     "ember-cli-dependency-checker": "^3.2.0",
     "ember-cli-htmlbars": "^6.0.1",
     "ember-cli-inject-live-reload": "^2.1.0",
-    "ember-cli-notifications": "^8.0.0",
+    "ember-cli-notifications": "jacobq/ember-cli-notifications#a5adc72b7474778e07170ea6d78240f66776a6f5",
     "ember-cli-sri": "^2.1.1",
     "ember-cli-terser": "^4.0.2",
     "ember-data": "~4.2.0",
